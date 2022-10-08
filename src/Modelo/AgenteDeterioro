@@ -5,7 +5,7 @@ public class AgenteDeterioro {
     private String causaExacta;
     private int codigo;
 
-    public AgenteDeterioro()  {
+    public AgenteDeterioro () {
 
     }
 }
