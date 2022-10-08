@@ -1,5 +1,5 @@
 package Modelo;
 
-public enum TipoAgente {
+public enum TipoAgente{
     Intrínseca, Extrínseco
 }

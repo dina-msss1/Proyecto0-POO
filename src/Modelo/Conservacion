@@ -1,5 +1,4 @@
 package Modelo;
 
-public class Conservacion extends Proyecto{
-
+public class Conservacion extends Proyecto {
 }

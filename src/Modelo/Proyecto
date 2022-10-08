@@ -1,6 +1,6 @@
 package Modelo;
 
-public abstract class Proyecto {
+public abstract class Proyecto{
 
     protected Area area;
     protected Elemento elemento;
@@ -9,5 +9,4 @@ public abstract class Proyecto {
     protected Estado estado;
     protected Trabajador encargado;
     protected int codigo;
-
 }

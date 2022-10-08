@@ -1,11 +1,10 @@
 package Modelo;
 
-public class AgenteDeterioro {
+public class AgenteDeterioro{
     private TipoAgente tipoAgente;
     private String causaExacta;
     private int codigo;
 
     public AgenteDeterioro () {
-
     }
 }

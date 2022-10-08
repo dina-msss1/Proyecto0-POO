@@ -1,5 +1,5 @@
 package Modelo;
 
-public enum TipoEncaragdo{
+public enum TipoEncaragdo {
     Interno, Externo
 }
