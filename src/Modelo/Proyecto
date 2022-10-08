@@ -1,0 +1,13 @@
+package Modelo;
+
+public abstract class Proyecto {
+
+    protected Area area;
+    protected Elemento elemento;
+    protected Date fechaInicio;
+    protected Date fechaConclusion;
+    protected Estado estado;
+    protected Trabajador encargado;
+    protected int codigo;
+
+}
